@@ -1,0 +1,23 @@
+body {
+    font-size: 20px;
+    font-family: "Arial", "Meiryo", sans-serif;
+}
+.centering_parent{
+    text-align: center;
+}
+#decorate {
+    font-family: "Jisefin Sans", san-serif;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 1px rgb(115, 115, 114);
+    border-bottom: solid 3px black;
+}
+.decoration {
+    font-weight: bold;
+}
+.heading1 {
+    color: rgb(255, 192, 203);
+}
+.heading2 {
+    color: skyblue;
+}
